@@ -1,0 +1,41 @@
+1,202.106.196.115,linedns.bta.net.cn,China,12
+2,202.106.0.20,gjjline.bta.net.cn,China,14
+3,198.153.194.1,Norton DNS,United States,206
+4,205.171.2.65,resolver.qwest.net,United States,223
+5,66.93.87.2,dns.sea1.speakeasy.net,United States,231
+6,156.154.70.1,DNS Advantage,United States,234
+7,156.154.71.1,DNS Advantage,United States,238
+8,205.171.3.65,resolver1.qwest.net,United States,255
+9,8.8.4.4,Google Public DNS,United States,259
+10,165.87.201.244,ns4.us.prserv.net,United States,265
+11,202.138.96.2,ns1.rilinfo.net,India,272
+12,216.231.41.2,ns-legacy.speakeasy.net,United States,275
+13,8.8.8.8,Google Public DNS,United States,280
+14,64.102.255.44,ns2.cisco.com,United States,282
+15,198.153.192.1,Norton DNS,United States,297
+16,165.87.13.129,nscache.prserv.net,United States,304
+17,208.67.222.222,resolver1.opendns.com,United States,308
+18,208.67.220.220,resolver2.opendns.com,United States,313
+19,206.124.64.1,bigguy.gte.net,United States,349
+20,209.166.160.36,orion.dns.cc.stargate.net,United States,363
+21,128.107.241.185,ns1.cisco.com,United States,365
+22,178.79.131.110,V2EX DNS,European Union,400
+23,202.27.184.3,alien.xtra.co.nz,New Zealand,439
+24,199.2.252.10,ns2.sprintlink.net,United States,4294967295
+25,203.34.118.10,odns1.idsirtii.or.id,Indonesia,4294967295
+26,192.168.1.101,STHOME,Reserved,4294967295
+27,192.112.36.4,G.ROOT-SERVERS.NET,United States,4294967295
+28,192.36.148.17,i.root-servers.net,Sweden,4294967295
+29,192.33.4.12,c.root-servers.net,United States,4294967295
+30,193.0.14.129,k.root-servers.net,European Union,4294967295
+31,202.249.24.65,ns1.itb.ac.id,Japan,4294967295
+32,128.9.0.107,ns1.isi.edu,United States,4294967295
+33,128.8.10.90,d.root-servers.net,United States,4294967295
+34,207.225.209.66,207-225-209-066.scrubdns.com,United States,4294967295
+35,202.12.27.33,M.ROOT-SERVERS.NET,Japan,4294967295
+36,202.216.228.18,ns11.dti.ad.jp,Japan,4294967295
+37,151.197.0.38,nsphil.bellatlantic.net,United States,4294967295
+38,151.197.0.39,home4.bellatlantic.net,United States,4294967295
+39,202.96.128.143,ns.guangzhou.gd.cn,China,4294967295
+40,204.97.212.10,ns3.sprintlink.net,United States,4294967295
+41,199.166.31.3,ns1.quasar.net,United States,4294967295
