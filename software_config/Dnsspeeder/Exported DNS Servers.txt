@@ -1,102 +1,105 @@
-1,202.106.0.20,gjjline.bta.net.cn,Beijing,13
-2,202.106.196.115,linedns.bta.net.cn,Beijing,14
-3,202.175.3.8,vassun2.macau.ctm.net,Macau,57
-4,202.175.3.3,macau.ctm.net,Macau,60
-5,168.95.1.1,dns.hinet.net,Taiwan,75
-6,168.95.192.1,hntp1.hinet.net,Taiwan,77
-7,202.181.224.2,ns1.hkcix.com,Hong Kong,80
-8,202.96.128.143,ns.guangzhou.gd.cn,Guangzhou,141
-9,64.81.79.2,dns.sfo1.speakeasy.net,United States,202
-10,4.2.2.4,GTEI DNS,USA,212
-11,216.231.41.2,ns-legacy.speakeasy.net,USA,214
-12,4.2.2.2,GTEI vnsc-bak.sys.gtei.net,USA,215
-13,204.117.214.10,ns1.sprintlink.net,United States,216
-14,205.171.2.65,resolver.qwest.net,USA,219
-15,64.81.45.2,dns.lax1.speakeasy.net,United States,219
-16,199.2.252.10,ns2.sprintlink.net,USA,220
-17,205.171.3.65,resolver1.qwest.net,USA,222
-18,209.244.0.4,resolver2.level3.net,USA,222
-19,204.97.212.10,ns3.sprintlink.net,USA,222
-20,66.93.87.2,dns.sea1.speakeasy.net,USA,222
-21,4.2.2.6,GTEI DNS,USA,226
-22,128.107.241.185,ns1.cisco.com,USA,227
-23,209.244.0.3,resolver1.level3.net,USA,228
-24,4.2.2.3,GTEI vnsc-lc.sys.gtei.net,USA,229
-25,4.2.2.5,GTEI DNS,USA,229
-26,156.154.70.1,DNS Advantage,USA,235
-27,198.153.194.1,Norton DNS,USA,239
-28,156.154.71.1,DNS Advantage,USA,242
-29,4.2.2.1,GTEI vnsc-pri.sys.gtei.net,USA,246
-30,206.124.64.1,bigguy.gte.net,USA,248
-31,165.87.201.244,ns4.us.prserv.net,USA,262
-32,64.81.127.2,dns.dfw1.speakeasy.net,United States,265
-33,66.92.159.2,dns.wdc1.speakeasy.net,United States,268
-34,64.81.159.2,dns.chi1.speakeasy.net,United States,270
-35,8.8.8.8,Google Public DNS,USA,272
-36,165.87.13.129,nscache.prserv.net,USA,285
-37,216.27.175.2,dns.atl1.speakeasy.net,United States,289
-38,216.87.84.211,sourpuss.net,United States,289
-39,64.102.255.44,ns2.cisco.com,USA,297
-40,208.67.222.222,OpenDNS Resolver1,USA,306
-41,208.67.220.220,OpenDNS Resolver2,USA,313
-42,208.67.222.123,OpenDNS FamilyShield Resolver1,USA,314
-43,202.138.96.2,ns1.rilinfo.net,India,334
-44,198.153.192.1,Norton DNS,USA,340
-45,67.19.1.10,cache02.theplanet.com,USA,351
-46,178.79.131.110,V2EX DNS,European Union,370
-47,209.166.160.36,orion.dns.cc.stargate.net,USA,393
-48,178.63.26.173,new.stejau.de,Germany,438
-49,202.83.95.227,ns8.jdcomputers.com.au,Australia,443
-50,217.79.186.148,crawl-217-79-186-148.googlebot.com,Germany,479
-51,27.110.120.30,ptr30.scorch.co.nz,New Zealand,545
-52,89.16.173.11,synergy0.vm.bytemark.co.uk,United Kingdom,905
-53,156.154.70.22,Comodo Secure DNS,USA,4294967295
-54,8.8.4.4,Google Public DNS,USA,4294967295
-55,128.9.0.107,ns1.isi.edu,USA,4294967295
-56,164.124.101.31,nis.dacom.co.kr,Korea,4294967295
-57,203.248.240.31,ns2.lgtelecom.com,Korea,4294967295
-58,198.41.0.4,a.root-servers.net,USA,4294967295
-59,192.5.5.241,f.root-servers.net,USA,4294967295
-60,192.58.128.30,j.root-servers.net,USA,4294967295
-61,192.9.9.3,ns.Sun.COM,USA,4294967295
-62,66.33.206.206,ns1.dreamhost.com,USA,4294967295
-63,208.96.10.221,ns2.dreamhost.com,USA,4294967295
-64,66.33.216.216,ns3.dreamhost.com,USA,4294967295
-65,202.44.8.34,hanuman.kmutt.ac.th,Thailand,4294967295
-66,216.185.111.10,cache01.theplanet.com,USA,4294967295
-67,69.56.222.10,cache02.theplanet.com,USA,4294967295
-68,67.19.0.10,cache01.theplanet.com,USA,4294967295
-69,192.112.36.4,G.ROOT-SERVERS.NET,USA,4294967295
-70,192.36.148.17,i.root-servers.net,Sweden,4294967295
-71,192.33.4.12,c.root-servers.net,USA,4294967295
-72,208.151.69.65,ns2.netvigator.com,USA,4294967295
-73,151.202.0.84,nyc1-qwest.bellatlantic.net,United States,4294967295
+1,202.14.67.4,ns1.pacific.net.hk,Hong Kong,68
+2,8.8.8.8,Google Public DNS,USA,73
+3,8.8.4.4,Google Public DNS,USA,78
+4,202.175.3.8,vassun2.macau.ctm.net,Macau,79
+5,202.175.3.3,macau.ctm.net,Macau,88
+6,202.181.202.140,ns4.hkcix.com,Hong Kong,90
+7,168.95.1.1,dns.hinet.net,Taiwan,93
+8,198.153.194.1,Norton DNS,USA,112
+9,106.187.34.91,V2EX DNS Beta,Unknow,147
+10,168.95.192.1,hntp1.hinet.net,Taiwan,149
+11,4.2.2.2,GTEI vnsc-bak.sys.gtei.net,USA,215
+12,204.97.212.10,ns3.sprintlink.net,USA,218
+13,156.154.70.1,DNS Advantage,USA,221
+14,205.171.3.65,resolver1.qwest.net,USA,225
+15,64.81.45.2,dns.lax1.speakeasy.net,United States,229
+16,4.2.2.5,GTEI DNS,USA,231
+17,69.164.196.21,ryujin.darkdna.net,United States,232
+18,209.244.0.4,resolver2.level3.net,USA,233
+19,204.117.214.10,ns1.sprintlink.net,United States,235
+20,156.154.70.22,Comodo Secure DNS,USA,236
+21,4.2.2.4,GTEI DNS,USA,238
+22,216.231.41.2,ns-legacy.speakeasy.net,USA,239
+23,4.2.2.6,GTEI DNS,USA,241
+24,4.2.2.3,GTEI vnsc-lc.sys.gtei.net,USA,243
+25,156.154.71.1,DNS Advantage,USA,247
+26,209.244.0.3,resolver1.level3.net,USA,265
+27,69.56.222.10,cache02.theplanet.com,USA,266
+28,67.19.0.10,cache01.theplanet.com,USA,266
+29,66.93.87.2,dns.sea1.speakeasy.net,USA,270
+30,202.96.128.143,ns.guangzhou.gd.cn,Guangzhou,278
+31,165.87.201.244,ns4.us.prserv.net,USA,280
+32,64.102.255.44,ns2.cisco.com,USA,282
+33,205.171.2.65,resolver.qwest.net,USA,291
+34,206.124.64.1,bigguy.gte.net,USA,296
+35,199.2.252.10,ns2.sprintlink.net,USA,296
+36,74.118.212.1,ClearCloud DNS,United States,298
+37,216.27.175.2,dns.atl1.speakeasy.net,United States,302
+38,72.14.189.120,whoneedszzz.info,United States,312
+39,66.244.95.20,host.suso.com,United States,313
+40,67.19.1.10,cache02.theplanet.com,USA,316
+41,64.81.79.2,dns.sfo1.speakeasy.net,United States,328
+42,4.2.2.1,GTEI vnsc-pri.sys.gtei.net,USA,337
+43,165.87.13.129,nscache.prserv.net,USA,338
+44,209.166.160.36,orion.dns.cc.stargate.net,USA,338
+45,216.185.111.10,cache01.theplanet.com,USA,353
+46,208.67.222.123,OpenDNS FamilyShield Resolver1,USA,374
+47,74.118.212.2,ClearCloud DNS,United States,376
+48,208.67.220.220,OpenDNS Resolver2,USA,380
+49,208.67.222.222,OpenDNS Resolver1,USA,383
+50,202.27.184.3,alien.xtra.co.nz,New Zealand,389
+51,216.87.84.211,sourpuss.net,United States,436
+52,198.153.192.1,Norton DNS,USA,438
+53,208.67.220.123,OpenDNS FamilyShield Resolver2,USA,440
+54,202.138.96.2,ns1.rilinfo.net,India,478
+55,178.63.26.173,new.stejau.de,Germany,488
+56,217.79.186.148,crawl-217-79-186-148.googlebot.com,Germany,495
+57,128.107.241.185,ns1.cisco.com,USA,581
+58,89.16.173.11,synergy0.vm.bytemark.co.uk,United Kingdom,633
+59,180.131.144.144,DNS Nawala,Indonesia,675
+60,180.131.145.145,DNS Nawala,Indonesia,746
+61,27.110.120.30,ptr30.scorch.co.nz,New Zealand,748
+62,202.83.95.227,ns8.jdcomputers.com.au,Australia,4294967295
+63,202.181.224.2,ns1.hkcix.com,Hong Kong,4294967295
+64,66.92.159.2,dns.wdc1.speakeasy.net,United States,4294967295
+65,199.45.32.40,legacy-ns1.bellatlantic.net,United States,4294967295
+66,199.45.32.38,nsdc.bellatlantic.net,United States,4294967295
+67,151.203.0.85,boston2-qwest.bellatlantic.net,United States,4294967295
+68,178.79.131.110,V2EX DNS,European Union,4294967295
+69,64.81.127.2,dns.dfw1.speakeasy.net,United States,4294967295
+70,199.45.32.43,home1.bellatlantic.net,United States,4294967295
+71,151.197.0.38,nsphil.bellatlantic.net,USA,4294967295
+72,151.197.0.39,home4.bellatlantic.net,USA,4294967295
+73,151.203.0.84,boston1-qwest.bellatlantic.net,United States,4294967295
 74,151.202.0.85,nyc2-qwest.bellatlantic.net,United States,4294967295
-75,151.203.0.84,boston1-qwest.bellatlantic.net,United States,4294967295
-76,151.203.0.85,boston2-qwest.bellatlantic.net,United States,4294967295
-77,199.45.32.37,world1.bellatlantic.net,United States,4294967295
-78,199.45.32.38,nsdc.bellatlantic.net,United States,4294967295
-79,199.45.32.40,legacy-ns1.bellatlantic.net,United States,4294967295
-80,199.45.32.43,home1.bellatlantic.net,United States,4294967295
-81,192.76.85.133,vzdns01.verizon.com,United States,4294967295
-82,193.0.14.129,k.root-servers.net,European Union,4294967295
-83,202.181.202.140,ns4.hkcix.com,Hong Kong,4294967295
-84,202.249.24.65,ns1.itb.ac.id,Japan,4294967295
-85,67.138.54.100,ScrubIt DNS,USA,4294967295
-86,128.8.10.90,d.root-servers.net,USA,4294967295
-87,207.225.209.66,ScrubIt DNS,USA,4294967295
-88,202.12.27.33,M.ROOT-SERVERS.NET,Japan,4294967295
-89,156.156.71.22,Comodo Secure DNS,USA,4294967295
-90,202.27.184.3,alien.xtra.co.nz,New Zealand,4294967295
-91,119.31.230.42,ns3.jdcomputers.com.au,Australia,4294967295
-92,202.216.228.18,ns11.dti.ad.jp,Japan,4294967295
-93,151.197.0.38,nsphil.bellatlantic.net,USA,4294967295
-94,208.67.220.123,OpenDNS FamilyShield Resolver2,USA,4294967295
-95,151.197.0.39,home4.bellatlantic.net,USA,4294967295
-96,69.164.208.50,li123-50.members.linode.com,United States,4294967295
-97,199.166.31.3,ns1.quasar.net,USA,4294967295
-98,220.233.167.31,31.167.233.220.static.exetel.com.au,Australia,4294967295
-99,216.254.95.2,dns.nyc1.speakeasy.net,United States,4294967295
-100,64.81.111.2,den.speakeasy.net,United States,4294967295
-101,66.92.64.2,bos.speakeasy.net,United States,4294967295
-102,66.92.224.2,phl.speakeasy.net,United States,4294967295
+75,199.45.32.37,world1.bellatlantic.net,United States,4294967295
+76,64.81.159.2,dns.chi1.speakeasy.net,United States,4294967295
+77,69.164.208.50,li123-50.members.linode.com,United States,4294967295
+78,69.164.211.225,li126-225.members.linode.com,United States,4294967295
+79,202.249.24.65,ns1.itb.ac.id,Japan,4294967295
+80,164.124.101.31,nis.dacom.co.kr,Korea,4294967295
+81,203.248.240.31,ns2.lgtelecom.com,Korea,4294967295
+82,192.9.9.3,ns.Sun.COM,USA,4294967295
+83,208.96.10.221,ns2.dreamhost.com,USA,4294967295
+84,151.202.0.84,nyc1-qwest.bellatlantic.net,United States,4294967295
+85,72.71.240.173,pool-72-71-240-173.cncdnh.fast07.myfairpoint.net,United States,4294967295
+86,202.44.8.34,hanuman.kmutt.ac.th,Thailand,4294967295
+87,119.31.230.42,ns3.jdcomputers.com.au,Australia,4294967295
+88,67.138.54.100,ScrubIt DNS,USA,4294967295
+89,202.216.228.18,ns11.dti.ad.jp,Japan,4294967295
+90,207.225.209.66,ScrubIt DNS,USA,4294967295
+91,199.166.31.3,ns1.quasar.net,USA,4294967295
+92,192.76.85.133,vzdns01.verizon.com,United States,4294967295
+93,192.36.148.17,i.root-servers.net,Sweden,4294967295
+94,203.34.118.10,odns1.idsirtii.or.id,Indonesia,4294967295
+95,58.6.115.42,ns1.jdcomputers.com.au,Australia,4294967295
+96,203.130.196.5,CacheDNS-JKT2.telkom.net.id,Indonesia,4294967295
+97,66.33.206.206,ns1.dreamhost.com,USA,4294967295
+98,202.12.27.33,M.ROOT-SERVERS.NET,Japan,4294967295
+99,208.151.69.65,ns2.netvigator.com,USA,4294967295
+100,66.33.216.216,ns3.dreamhost.com,USA,4294967295
+101,128.9.0.107,ns1.isi.edu,USA,4294967295
+102,209.166.160.132,ns2.sgi.net,United States,4294967295
+103,198.32.64.12,AS-20144-has-not-REGISTERED-the-use-of-this-prefix,United States,4294967295
+104,220.233.167.31,31.167.233.220.static.exetel.com.au,Australia,4294967295
+105,64.0.55.201,w201.z064000055.alb-ny.dsl.cnc.net,United States,4294967295
