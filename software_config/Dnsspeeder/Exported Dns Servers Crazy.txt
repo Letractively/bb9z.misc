@@ -1,0 +1,43 @@
+1,202.106.196.115,linedns.bta.net.cn,China,13
+2,202.106.0.20,gjjline.bta.net.cn,China,49
+3,8.8.8.8,Google Public DNS,USA,59
+4,202.14.67.4,ns1.pacific.net.hk,Hong Kong,73
+5,202.181.202.140,ns4.hkcix.com,Hong Kong,87
+6,8.8.4.4,Google Public DNS,USA,95
+7,168.95.192.1,hntp1.hinet.net,Taiwan,102
+8,202.181.224.2,ns1.hkcix.com,Hong Kong,111
+9,208.67.220.220,OpenDNS Resolver2,USA,117
+10,208.67.220.123,OpenDNS FamilyShield Resolver2,USA,120
+11,208.67.222.222,OpenDNS Resolver1,USA,121
+12,106.187.34.91,V2EX DNS Beta,Unknow,123
+13,168.95.1.1,dns.hinet.net,Taiwan,126
+14,208.67.222.123,OpenDNS FamilyShield Resolver1,USA,176
+15,202.27.184.3,alien.xtra.co.nz,New Zealand,223
+16,203.34.118.12,odns2.idsirtii.or.id,Indonesia,245
+17,198.153.194.1,Norton DNS,USA,249
+18,205.171.2.65,resolver.qwest.net,United States,276
+19,198.153.192.1,Norton DNS,USA,320
+20,74.118.212.1,ClearCloud DNS,United States,332
+21,202.138.96.2,ns1.rilinfo.net,India,346
+22,205.171.3.65,resolver1.qwest.net,United States,371
+23,74.118.212.2,ClearCloud DNS,United States,398
+24,156.154.70.22,Comodo Secure DNS,USA,469
+25,4.2.2.1,GTEI vnsc-pri.sys.gtei.net,USA,475
+26,66.93.87.2,dns.sea1.speakeasy.net,United States,476
+27,4.2.2.5,GTEI DNS,USA,477
+28,4.2.2.6,GTEI DNS,USA,487
+29,128.107.241.185,ns1.cisco.com,United States,488
+30,156.154.70.1,rdns1.ultradns.net,United States,495
+31,156.154.71.1,rdns2.ultradns.net,United States,497
+32,199.2.252.10,ns2.sprintlink.net,United States,509
+33,4.2.2.4,GTEI DNS,USA,511
+34,165.87.13.129,nscache.prserv.net,United States,512
+35,4.2.2.3,GTEI vnsc-lc.sys.gtei.net,USA,513
+36,206.124.64.1,bigguy.gte.net,United States,526
+37,204.97.212.10,ns3.sprintlink.net,United States,533
+38,165.87.201.244,ns4.us.prserv.net,United States,562
+39,4.2.2.2,GTEI vnsc-bak.sys.gtei.net,USA,568
+40,216.231.41.2,ns-legacy.speakeasy.net,United States,584
+41,209.166.160.36,orion.dns.cc.stargate.net,United States,622
+42,64.102.255.44,ns2.cisco.com,United States,658
+43,178.79.131.110,V2EX DNS,European Union,4294967295
